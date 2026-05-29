@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sysadmin_portfolio>
+    <profile>
+        <name>Niño Guian I. Nanit</name>
+        <title>System Administrator</title>
+        <summary>IT Professional with expertise in Linux Server Management, Network Security, and Cloud Deployment.</summary>
+    </profile>
+
+    <experience>
+        <job>
+            <role>System Administrator I</role>
+            <company>Metrobank Center</company>
+            <location>Metrobank Center</location>
+            <date>January 19, 2026 - Present</date>
+            <tasks>
+                <task>Monitor and maintain bank servers and network infrastructure to ensure 99.9% uptime.</task>
+                <task>Manage user accounts, permissions, and access controls in Active Directory.</task>
+                <task>Handle first-level IT support and troubleshooting for staff hardware and software issues.</task>
+                <task>Perform regular backups and security scans to protect sensitive financial data.</task>
+                <task>Configure and monitor firewalls, VPNs, and security protocols.</task>
+                <task>Document system configurations and IT procedures for compliance.</task>
+            </tasks>
+        </job>
+        
+        <job>
+            <role>Encoder</role>
+            <company>Plenum Mechanical Engineering Services (PMES)</company>
+            <location>San Mateo, Rizal</location>
+            <date>August 15, 2025 - December 12, 2025</date>
+            <tasks>
+                <task>Encodes receipts and verifies the accuracy of numerical data.</task>
+                <task>Ensures completeness and consistency of entries in digital records.</task>
+                <task>Organizes, sorts, and maintains receipt documentation.</task>
+                <task>Drafting of proposal / quotation for project requirements.</task>
+                <task>Drafting for hiring employment on social media.</task>
+            </tasks>
+        </job>
+
+        <job>
+            <role>OJT Trainee</role>
+            <company>Provincial Planning and Development Office (PPDO)</company>
+            <location>Capitol Site, Kalibo, Aklan</location>
+            <date>January 21 - May 30, 2025</date>
+            <tasks>
+                <task>Assisted in preparing and organizing planning documents, reports, and correspondence.</task>
+                <task>Supported data collection and encoding for socio-economic profiles.</task>
+                <task>Participated in community consultations, surveys, and field validation activities.</task>
+                <task>Gained exposure to local governance processes and public administration.</task>
+            </tasks>
+        </job>
+    </experience>
+
+    <skills>
+        <skill>Linux/Unix Administration</skill>
+        <skill>Windows Server Management</skill>
+        <skill>Network Configuration (Cisco)</skill>
+        <skill>Firewall &amp; VPN Security</skill>
+        <skill>Virtualization (VMware, Hyper-V)</skill>
+        <skill>Bash/PowerShell Scripting</skill>
+        <skill>Backup Solutions (Veeam)</skill>
+    </skills>
+
+    <projects>
+        <project>
+            <title>Company Server Migration</title>
+            <desc>Led the migration of 20 physical servers to virtual machines with zero downtime.</desc>
+            <tech>VMware, ESXi, Linux</tech>
+            <link>#</link>
+        </project>
+        <project>
+            <title>Network Security Hardening</title>
+            <desc>Implemented a new firewall policy and VPN access for remote employees.</desc>
+            <tech>Cisco ASA, OpenVPN</tech>
+            <link>#</link>
+        </project>
+        <project>
+            <title>Automated Backup System</title>
+            <desc>Built a automated nightly backup script using Bash and rsync to AWS S3.</desc>
+            <tech>Bash, AWS S3, Cron Jobs</tech>
+            <link>#</link>
+        </project>
+    </projects>
+</sysadmin_portfolio>
